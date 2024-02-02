@@ -27,7 +27,6 @@ torchmetrics
 encodec
 protobuf
 cython
-pyqt
 pyqtwebengine
 pathlib
 ruamel-yaml
