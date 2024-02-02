@@ -30,3 +30,4 @@ cython
 pyqtwebengine
 pathlib
 ruamel-yaml
+werkzeug==2.2.2
